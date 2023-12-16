@@ -10,8 +10,10 @@
 
 <ol>
 <li>Git clone:https://github.com/SIMON-KANGI/WEEK-1-CHALLENGE</li>
-<li>cd to the name of the file name WEEK-1-CHALLENGE</li>
-<li>Read the README file</li>
+<li>cd to the name of the file name WEEK-1-CHALLENGE.</li>
+<li>Read the README file.</li>
+<li>Open the challenges are run node on the terminal.</li>
+<li>Input the values you are prompted.</li>
 </ol>
 
 ## How my file is structured
